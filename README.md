@@ -1,7 +1,7 @@
 # Hi There 🙌 I'm Hisashi Ishihara.
 ### Software Developer
 - 🚀 I am proficient in modern web technologies including HTML/CSS, Javascript, React, Node.js, and NoSQL like firebase and MongoDB.
-- 💸 I was previously working in the banking sector. Leveraging this robust financial background, I uniquely integrate deep industry insights with cutting-edge software solutions.
+- 💸 I was previously working in the banking sector (both fintech bank and conventional bank). Leveraging this robust financial background, I uniquely integrate deep industry insights with cutting-edge software solutions.
 
 ### Languages and tools
 <div>
